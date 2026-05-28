@@ -93,10 +93,6 @@ This model is **Part 1** of a multi-person hackathon project — RoadWatch AI.
 
 ---
 
-## 📄 Dataset Credit
-
-Dataset sourced from [Roboflow Universe — Pothole Detection](https://universe.roboflow.com/joseph-nelson/pothole-detection), licensed under CC BY 4.0.
-
 ## 👨‍💻 About
 
 **Saiyam Bajpai** — B.Tech in Computer Science & Design @ MITS Gwalior | BS in Data Science @ IIT Madras.
