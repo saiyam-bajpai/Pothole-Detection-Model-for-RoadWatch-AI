@@ -96,3 +96,15 @@ This model is **Part 1** of a multi-person hackathon project — RoadWatch AI.
 ## 📄 Dataset Credit
 
 Dataset sourced from [Roboflow Universe — Pothole Detection](https://universe.roboflow.com/joseph-nelson/pothole-detection), licensed under CC BY 4.0.
+
+## 👨‍💻 About
+
+**Saiyam Bajpai** — B.Tech in Computer Science & Design @ MITS Gwalior | BS in Data Science @ IIT Madras.
+
+This project taught me that great HCI is about removing friction between human intent and machine response — and that the best interface is the one you already have: your hands.
+
+[![GitHub](https://img.shields.io/badge/GitHub-saiyam--bajpai-black?style=flat-square&logo=github)](https://github.com/saiyam-bajpai/Computer-Vision-based-Hand-Gesture-Control)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saiyam--bajpai-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saiyam-bajpai/)
+
+---
+
